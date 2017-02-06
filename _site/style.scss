@@ -4,6 +4,7 @@
 // Jekyll, Bootstrap included
 // Non Responsive Page
 @import url('https://fonts.googleapis.com/css?family=Lato');
+//@import "compass/css3" Don't Use
 
 body{
 	
@@ -13,11 +14,41 @@ body{
 		font-weight:300;
 		letter-spacing:0.25px;
 		line-height:160%;
+		
+			
+			.logo
+				{
+					display:flex;
+					margin: 30px 0px 30px 0px;
+				}
+
+
+			.desUp
+			    {
+
+					font-weight:thin;
+					line-height: 150%;
+					font-size:14px;
+					padding:10px 0px 0px 10px;
+					letter-spacing: -0.2px;
+
+			    }
+
+			
+			.col-md-3
+				{
+
+				margin-bottom:50px;
+
+				}
+
+
 	}
+
 
 	.row
 	{
-		margin:0px 0px 0px 0px;
+		margin:0px 0px 10px 0px;
 	}
 	
 	.header 
@@ -36,17 +67,39 @@ body{
 		list-style:none;
 		margin-right:10px;
 		font-size:20px;
+		padding:0px;
+		margin:0px;
 		}
 
 
 		input[type=checkbox]
 		{
-		
+
+		width:22px;
 		cursor:pointer;
-		transform:scale(1.5);
-		margin:10px;
+		margin:0px 0px 0px 10px;
+		border: 2px solid #bcbcbc;
+		content:"";
+		-ms-transform: scale(2); /* IE */
+		-moz-transform: scale(2); /* FF */
+		-webkit-transform: scale(2); /* Safari and Chrome */
+		-o-transform: scale(2); /* Opera */
+		padding: 10px;
+
+
+		&:checked 
+		{
+		
+		width: 25px;
+		height: 25px;
+		background-image://
+		}
+
 	
 		}
+
+
+	
 	}
 
 	a
@@ -81,8 +134,16 @@ body{
 	.des
 	{
 
-	margin: 7px 0px 0px 0px;
+	//margin: 7px 0px 5px 0px;
+	line-height:150%;
 
 	}
 
+	.img-thumbnail
+	{
+		width:80%;
+	}
+
+	
+	
 } //body
