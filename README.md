@@ -1,2 +1,3 @@
 # hongiksidi2016
-hongiksidi2016 http//hongiksidi2016.git.io
+Hongiksidi 2016 Graduation Page Jekyll Updating Example ver.0.01
+JiHoon.
