@@ -1,2 +1,2 @@
-body p{font-size:20px}
+@import url("https://fonts.googleapis.com/css?family=Lato");body .container{font-family:'Lato', sans-serif;font-weight:300;letter-spacing:0.25px;line-height:160%}body .row{margin:0px 0px 0px 0px}body .header{display:flex;margin-top:30px}body .header ul{margin:0px;padding:0px}body .header li{list-style:none;margin-right:10px;font-size:20px}body .header input[type=checkbox]{cursor:pointer;transform:scale(1.5);margin:10px}body a{color:#333}body a:hover{color:#333;text-decoration:line-through}body label{font-family:'Lato', sans-serif;font-weight:300;letter-spacing:0.25px;line-height:160%}body #filters{display:block;margin:auto}body .des{margin:7px 0px 0px 0px}
 /*# sourceMappingURL=style.css.map */

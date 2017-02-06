@@ -1,7 +1,88 @@
-body{
+// 2017.02.16 Author: Ji Hoon Lee.
+// Hongik University Design Dept. 
+// Gradudation Archieve Renewal
+// Jekyll, Bootstrap included
+// Non Responsive Page
+@import url('https://fonts.googleapis.com/css?family=Lato');
 
-	p{
-		font-size:20px;
+body{
+	
+	.container
+	{
+		font-family: 'Lato', sans-serif;
+		font-weight:300;
+		letter-spacing:0.25px;
+		line-height:160%;
 	}
 
-}
+	.row
+	{
+		margin:0px 0px 0px 0px;
+	}
+	
+	.header 
+	{
+
+		display:flex;
+		margin-top:30px;	
+		
+		ul 
+		{
+		margin:0px;
+		padding:0px;
+		}		
+	
+		li{
+		list-style:none;
+		margin-right:10px;
+		font-size:20px;
+		}
+
+
+		input[type=checkbox]
+		{
+		
+		cursor:pointer;
+		transform:scale(1.5);
+		margin:10px;
+	
+		}
+	}
+
+	a
+	{
+		color:#333;
+		
+		&:hover
+		
+		{
+			color:#333;
+			text-decoration: line-through;
+		}
+	}
+
+	label
+	{
+
+		font-family: 'Lato', sans-serif;
+		font-weight:300;
+		letter-spacing:0.25px;
+		line-height:160%;
+
+	}
+
+	#filters
+	{
+
+		display:block;
+		margin:auto;
+	}
+	
+	.des
+	{
+
+	margin: 7px 0px 0px 0px;
+
+	}
+
+} //body
