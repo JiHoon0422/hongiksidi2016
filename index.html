@@ -2,13 +2,15 @@
 layout: default
 ---
 
-<a href="">
+{% for post in site.posts %}
+<a href="{{post.url}}">
 <div class="col-xs-2 resultblock" data-tag="Package">
 	<img src="images/hwangjisoo.jpg" class="img-responsive">
 	<div class="des1">
-	<b>Desinger</b><br>
-	Artwork<br>
-	Design Principle<br>
+	{{post.title}}<br>
+	{{post.author}}<br>
 	</div>
+ {% endfor %}
+
 </div>
 </a>
