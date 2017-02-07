@@ -4,7 +4,10 @@ body .container {
   font-weight: 300;
   letter-spacing: 0.25px;
   line-height: 160%;
-  width: 1200px; }
+  width: 1200px;
+  margin: 0px 0px 0px 80px;
+  clear: both;
+  display: block; }
   body .container .logo {
     display: flex;
     margin: 30px 0px 30px 0px; }
