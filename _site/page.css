@@ -1,14 +1,40 @@
 @import url("https://fonts.googleapis.com/css?family=Lato");
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
 body .container {
-  width: 1000px; }
-body .deDep {
-  font-family: 'Lato', sans-serif;
-  font-weight: 300;
-  letter-spacing: 0.25px;
+  width: 1000px;
+  margin: 60px 60px 20px 60px; }
+body .noto {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 400;
   line-height: 160%;
-  text-align: center; }
+  text-align: left;
+  font-size: 14px; }
+body .lato {
+  font-family: 'Lato', sans-serif; }
+body .deDep {
+  font-weight: 300;
+  line-height: 150%;
+  text-align: left;
+  font-size: 40px; }
+body .det {
+  line-height: 150%;
+  letter-spacing: -0.25px; }
 body .deImg {
-  width: 200px;
-  height: 200px; }
+  margin: 30px 0px 0px 0px;
+  width: 80%; }
+body hr {
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+  -webkit-margin-start: 0;
+  -webkit-margin-end: 0;
+  border-style: solid;
+  border-color: #f2f2f2; }
+body p {
+  -webkit-margin-before: 0px;
+  -webkit-margin-after: 0px;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  margin-bottom: 10px;
+  line-height: 160%; }
 
 /*# sourceMappingURL=page.css.map */
