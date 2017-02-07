@@ -16,6 +16,8 @@ body .container {
     letter-spacing: -0.2px; }
   body .container .col-md-3 {
     margin-bottom: 50px; }
+body .col-xs-3 {
+  width: 250px; }
 body .row {
   margin: 0px 0px 10px 0px; }
 body .header {
@@ -65,7 +67,7 @@ body .des1 {
   line-height: 140%;
   margin: 10px 0px 35px 0px; }
 body .abImg {
-  width: 250px;
-  height: 200px; }
+  width: 200px;
+  height: 150px; }
 
 /*# sourceMappingURL=style.css.map */
