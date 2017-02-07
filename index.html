@@ -5,7 +5,7 @@ layout: default
 {% for post in site.posts %}
 <a href="{{post.url}">
 <div class="col-xs-2 resultblock" data-tag="{{post.tag}}">
-	<img src="/{{post.link}}" class="img-responsive">
+	<img src="{{site.baseurl}}/{{post.link}}" class="img-responsive">
 	<div class="des1">
 	<b>{{post.title}}</b><br>
 	{{post.author}}<br>
