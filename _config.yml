@@ -1,5 +1,5 @@
 markdown: redcarpet
-baseurl: /hongiksidi2016/
+baseurl: 
 exclude: ['README.md']
 
 
