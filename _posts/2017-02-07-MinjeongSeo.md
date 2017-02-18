@@ -1,6 +1,6 @@
 ---
 title: Nordic Myths Ring of Andvari
-titleK: 북유럽 신화 : 안드바리의 반지
+titleK: 북유럽 신화 안드바리의 반지
 author: Minjeong Seo
 link: images/MinjeongSeo
 tag: Illustration
