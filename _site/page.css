@@ -8,7 +8,7 @@ body .noto {
   font-weight: 400;
   line-height: 160%;
   text-align: left;
-  font-size: 14px; }
+  font-size: 13px; }
 body .lato {
   font-family: 'Lato', sans-serif; }
 body .deDep {
@@ -35,6 +35,8 @@ body p {
   -webkit-margin-start: 0px;
   -webkit-margin-end: 0px;
   margin-bottom: 10px;
-  line-height: 160%; }
+  line-height: 160%;
+  font-size: 10px;
+  font-weight: 300; }
 
 /*# sourceMappingURL=page.css.map */

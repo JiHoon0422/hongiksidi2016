@@ -8,8 +8,8 @@
 
 body{
 	
-	margin:20 auto;
-	clear:both;
+	
+	width:100%;
 	
 
 	
@@ -20,16 +20,11 @@ body{
 		font-weight:300;
 		letter-spacing:0.25px;
 		line-height:160%;
-		width:1200px;
+		width:960px;
 		clear:both;
+		margin:20 auto;
 		
-		
-		
-		
-
-		
-		
-			
+				
 			.logo
 				{
 					display:flex;
@@ -147,8 +142,8 @@ body{
 	#filters
 	{
 
-		display:block;
-		margin:auto;
+		// display:block;
+		// margin:auto;
 	}
 
 	.des1
@@ -168,5 +163,13 @@ body{
 
 	}
 
+	.filterblock
+	{
+
+	text-align:center;
+	display:inline-block;
+	font-size:11px;
+
+	}
 
 } //body

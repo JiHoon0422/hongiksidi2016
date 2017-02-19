@@ -44,8 +44,8 @@ What is BLUE? What am I running from?
 <div class="row noto">
 	
 	<div class="col-xs-4">
-	<img src="{{site.baseurl}}/{{page.link}}1.jpg" class="deImg" alt=""></div>
-	Thinky 기초단계 패키지
+	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>
+	
 </div>
 
 	

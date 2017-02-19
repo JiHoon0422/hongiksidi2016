@@ -42,8 +42,8 @@ This story is fiction, but based on fact. It's my story after the graduation. It
 <div class="row noto">
 	
 	<div class="col-xs-4">
-	<img src="{{site.baseurl}}/{{page.link}}1.jpg" class="deImg" alt=""></div>
-	Thinky 기초단계 패키지
+	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>
+	
 </div>
 
 	

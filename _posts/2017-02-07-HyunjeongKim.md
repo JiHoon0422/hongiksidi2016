@@ -50,8 +50,8 @@ JellyLab은 지금까지 다섯명의 친구들의 고민을 담아 젤리를 �
 <div class="row noto">
 	
 	<div class="col-xs-4">
-	<img src="{{site.baseurl}}/{{page.link}}1.jpg" class="deImg" alt=""></div>
-	Thinky 기초단계 패키지
+	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>
+	
 </div>
 
 	

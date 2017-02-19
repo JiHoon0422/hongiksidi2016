@@ -46,8 +46,8 @@ In this story, Banan is a strong sorcerer but she has vanity which is a feature 
 <div class="row noto">
 	
 	<div class="col-xs-4">
-	<img src="{{site.baseurl}}/{{page.link}}1.jpg" class="deImg" alt=""></div>
-	Thinky 기초단계 패키지
+	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>
+	
 </div>
 
 	
