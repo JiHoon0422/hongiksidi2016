@@ -20,3 +20,14 @@ $(document).ready(function(){
     });
     console.log("DefaultFilter")
   }); 
+
+$(document).ready(function(){
+
+  $('#top').click(function(){
+
+  $('html, body').animate({ scrollTop: 0 }, 'slow');
+
+
+  })
+
+})
