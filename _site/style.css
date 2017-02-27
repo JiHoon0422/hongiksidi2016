@@ -1,93 +1,96 @@
 @import url("https://fonts.googleapis.com/css?family=Lato");
-body {
-  width: 100%; }
-  body .container {
-    font-family: 'Lato', sans-serif;
-    font-weight: 300;
-    letter-spacing: 0.25px;
-    line-height: 160%;
-    width: 960px;
-    clear: both;
-    margin: 20 auto; }
-    body .container .logo {
-      display: flex;
-      margin: 30px 0px 30px 0px; }
-    body .container .desUp {
-      font-weight: thin;
-      line-height: 150%;
-      font-size: 14px;
-      padding: 10px 0px 0px 10px;
-      letter-spacing: -0.2px; }
-    body .container .col-md-3 {
-      margin-bottom: 50px; }
-  body .col-xs-3 {
-    width: 220px; }
-  body .row {
-    margin: 0px 0px 10px 0px; }
-  body .header {
+body .container {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.25px;
+  line-height: 160%;
+  width: 1200px;
+  clear: both;
+  margin: 20 auto; }
+  body .container .logo {
     display: flex;
-    margin-top: 23px; }
-    body .header ul {
-      margin: 0px;
-      padding: 0px; }
-    body .header li {
-      list-style: none;
-      margin-right: 10px;
-      font-size: 20px;
-      padding: 0px;
-      margin: 0px; }
-    body .header input[type=checkbox] {
-      cursor: pointer; }
-  body a {
-    color: #333; }
-    body a:hover {
-      color: #333;
-      text-decoration: line-through; }
-  body label {
-    font-family: 'Lato', sans-serif;
-    font-weight: 300;
-    letter-spacing: 0.25px;
-    line-height: 160%; }
-  body .des1 {
-    line-height: 140%;
-    margin: 10px 0px 35px 0px; }
-  body .abImg {
-    width: 200px;
-    height: 150px; }
-  body .filterblock {
-    text-align: center;
-    display: inline-block;
-    font-size: 11px;
-    margin-left: 16px; }
-  body label {
-    margin: 0px 6px 0px 3px; }
-  body hr {
-    /* margin-top: 20px; */
-    margin-bottom: 20px;
-    border: 0;
-    border-top: 1px solid #eee;
-    width: 95%; }
-  body .midHeader {
-    text-align: left;
-    display: inline-block;
-    font-size: 11px;
-    margin-left: 35px; }
-  body .toTop {
-    position: fixed;
-    bottom: 0;
-    right: 0;
-    width: 30px;
-    margin-right: 100px;
-    margin-bottom: 20px;
-    height: 30px;
-    background-color: #333;
-    color: white;
-    text-align: center;
-    font-size: 12px;
-    padding: 2px 0px 0px 0px;
-    display: block; }
-    body .toTop:hover {
-      background-color: pink;
-      cursor: pointer; }
+    margin: 30px 0px 30px 0px; }
+  body .container .desUp {
+    font-weight: thin;
+    line-height: 150%;
+    font-size: 14px;
+    padding: 10px 0px 0px 10px;
+    letter-spacing: -0.2px; }
+  body .container .col-md-3 {
+    margin-bottom: 50px; }
+body .col-xs-3 {
+  width: 180px;
+  overflow: hidden;
+  margin-right: 30px;
+  margin-bottom: 40px; }
+body .row {
+  margin: 0px 0px 10px 0px; }
+body .header {
+  display: flex;
+  margin-top: 23px; }
+  body .header ul {
+    margin: 0px;
+    padding: 0px; }
+  body .header li {
+    list-style: none;
+    margin-right: 10px;
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px; }
+  body .header input[type=checkbox] {
+    cursor: pointer; }
+body a {
+  color: #333; }
+  body a:hover {
+    color: #333;
+    text-decoration: line-through; }
+body label {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.25px;
+  line-height: 160%; }
+body .des1 {
+  line-height: 140%;
+  margin: 15px 0px 35px 0px;
+  font-size: 12px; }
+body .abImg {
+  width: 250px;
+  height: 100px;
+  overflow: hidden; }
+body .filterblock {
+  text-align: center;
+  display: inline-block;
+  font-size: 11px;
+  margin-left: 16px; }
+body label {
+  margin: 0px 6px 0px 3px; }
+body hr {
+  /* margin-top: 20px; */
+  margin-bottom: 20px;
+  border: 0;
+  border-top: 1px solid #eee;
+  width: 95%; }
+body .midHeader {
+  text-align: left;
+  display: inline-block;
+  font-size: 11px;
+  margin-left: 35px; }
+body .toTop {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 30px;
+  margin-right: 100px;
+  margin-bottom: 20px;
+  height: 30px;
+  background-color: #333;
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  padding: 2px 0px 0px 0px;
+  display: block; }
+  body .toTop:hover {
+    background-color: pink;
+    cursor: pointer; }
 
 /*# sourceMappingURL=style.css.map */

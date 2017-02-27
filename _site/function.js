@@ -30,4 +30,8 @@ $(document).ready(function(){
 
   })
 
-})
+});
+
+// function getTitle(){
+//   console.log($('#id').length)
+//   }

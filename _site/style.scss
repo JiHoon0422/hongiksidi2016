@@ -9,7 +9,7 @@
 body{
 	
 	
-	width:100%;
+	// width:100%;
 	
 
 	
@@ -20,7 +20,7 @@ body{
 		font-weight:300;
 		letter-spacing:0.25px;
 		line-height:160%;
-		width:960px;
+		width:1200px;
 		clear:both;
 		margin:20 auto;
 		
@@ -57,7 +57,10 @@ body{
 	.col-xs-3
 	{
 
-	width:220px;
+	width:180px;
+	overflow:hidden;
+	margin-right:30px;
+	margin-bottom:40px;
 
 	}
 
@@ -72,6 +75,10 @@ body{
 
 		display:flex;
 		margin-top:23px;	
+		// position:fixed;
+		// background-color:white;
+		// z-index:10000;
+
 		
 		ul 
 		{
@@ -150,15 +157,17 @@ body{
 	{
 
 		line-height:140%;
-		margin:10px 0px 35px 0px;
+		margin:15px 0px 35px 0px;
+		font-size:12px;
+
 
 	}
 
 	.abImg
 	{
-
-		width:200px;
-		height:150px; 
+		width:250px;
+		height:100px; 
+		overflow:hidden;
 		// min-width: 200px;
 	 	// min-height: 150px;
 
