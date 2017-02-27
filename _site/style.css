@@ -26,7 +26,7 @@ body {
     margin: 0px 0px 10px 0px; }
   body .header {
     display: flex;
-    margin-top: 30px; }
+    margin-top: 23px; }
     body .header ul {
       margin: 0px;
       padding: 0px; }
@@ -37,23 +37,7 @@ body {
       padding: 0px;
       margin: 0px; }
     body .header input[type=checkbox] {
-      width: 22px;
-      cursor: pointer;
-      margin: 0px 0px 0px 10px;
-      border: 2px solid #bcbcbc;
-      content: "";
-      -ms-transform: scale(2);
-      /* IE */
-      -moz-transform: scale(2);
-      /* FF */
-      -webkit-transform: scale(2);
-      /* Safari and Chrome */
-      -o-transform: scale(2);
-      /* Opera */
-      padding: 10px; }
-      body .header input[type=checkbox]:checked {
-        width: 25px;
-        height: 25px; }
+      cursor: pointer; }
   body a {
     color: #333; }
     body a:hover {
@@ -73,6 +57,20 @@ body {
   body .filterblock {
     text-align: center;
     display: inline-block;
-    font-size: 11px; }
+    font-size: 11px;
+    margin-left: 16px; }
+  body label {
+    margin: 0px 6px 0px 3px; }
+  body hr {
+    /* margin-top: 20px; */
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #eee;
+    width: 95%; }
+  body .midHeader {
+    text-align: left;
+    display: inline-block;
+    font-size: 11px;
+    margin-left: 35px; }
 
 /*# sourceMappingURL=style.css.map */
