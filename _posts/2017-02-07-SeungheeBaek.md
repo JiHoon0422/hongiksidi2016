@@ -21,7 +21,7 @@ email: baek.17.144@gmail.com
 
 <div class="det lato">
 
-<!--영문-->
+
 
 King's Milk is a brand of milk based on an interesting and unique brand story and symbol.
 <br>
@@ -33,13 +33,13 @@ In addition to the original 100% white milk, we processed milk containing the ta
 <br>
 Colostrum Premium Line and Christmas Edition offer expansion directions of the Kings Milk brand.
 
-<!--영문-->
+
 
 </div>
 
+<br>
 
 <div class="noto">
-<!--국문-->
 
 킹스밀크는 흥미롭고 독특한 브랜드 스토리와 심볼을 매개로 한 우유 브랜드이다. 
 <br>
@@ -50,7 +50,6 @@ Colostrum Premium Line and Christmas Edition offer expansion directions of the K
 <br>
 초유 프리미엄 라인과 크리스마스 에디션은 킹스밀크 브랜드의 확장 방향을 제시하고 있다.
 
-<!--국문-->
 
 </div>
 

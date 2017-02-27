@@ -21,7 +21,7 @@ email: cellplay9204@gmail.com
 
 <div class="det lato">
 
-<!--영문-->
+
 
 Beyond your days. I’m elsewhere.
 Escaping from the beauty of daily life, reveal the color of another self. 
@@ -36,15 +36,14 @@ The package was created under the concept of a special edition to commemorate th
 The movie helps you see the mood of the brand in the four lookbooks by giving motion to graphics.
 https://vimeo.com/197755553
 
-<!--영문-->
+
 
 </div>
 
+<br>
 
 <div class="noto">
-<!--국문-->
 
-<br>
 Beyond your days. 
 일상적 아름다움을 벗어나 다른 자아의 색을 드러내다.
 <br>
@@ -57,7 +56,6 @@ elsewhere의 룩북은 브랜드를 이미지와 글을 통해 간접적으로 �
 영상은 네 개의 룩북에서 보여준 그래픽에 모션을 줌으로서 브랜드의 무드를 더욱 편히 접할 수 있도록 돕는다. 
 https://vimeo.com/197755553
 
-<!--국문-->
 
 </div>
 

@@ -21,7 +21,7 @@ email: bogledj@gmail.com
 
 <div class="det lato">
 
-<!--영문-->
+
 "When we are alone, finding simple pleasures of daily lives and enjoying them, being 'alone' isn't seem to be negative feeling. This time can be used to recharge our mind and soul."
 - Quote from the book <Alone Time>, written by Saito Takashi.
 <br>
@@ -31,15 +31,14 @@ The brand name "Pause" stands for the meaning of the word literally, a time inte
 <br>
 Website address :  https://proj-pause.herokuapp.com/views/intro.html
 
-<!--영문-->
+
 
 </div>
 
+<br>
 
 <div class="noto">
-<!--국문-->
 
-<br>
 "일상의 작은 즐거움을 찾아내고 즐기다 보면 '혼자'라는 것이 부정적인 의미로 여겨지지 않는다. 오히려 온전히 자기만을 위한 재충전의 시간으로 활용할 수 있다."
 - 사이토 다카시, <혼자 있는 시간의 힘> 중에서.
 <br>
@@ -49,7 +48,6 @@ Website address :  https://proj-pause.herokuapp.com/views/intro.html
 <br>
 주소 : https://proj-pause.herokuapp.com/views/intro.html
 
-<!--국문-->
 
 </div>
 

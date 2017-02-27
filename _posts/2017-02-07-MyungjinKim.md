@@ -21,7 +21,7 @@ email: dartistm@gmail.com
 
 <div class="det lato">
 
-<!--영문-->
+
 From the teenager to the twenties, we (Korean youth) have been endeavoring to be a talented person of the future in a fixed frame. Nowadays, what is happening inside our mirror? I explored in the mirror of our youth, through two different self-explanations.
 <br>
 First Self-introduction: Self-novel by Body Parts
@@ -32,15 +32,14 @@ Second Self-introduction: Inside My Mirror
 <Inside My Mirror> is a true self-explanation that takes away the spectacular modifiers and looks at me as it is. In this project, I wanted to show the true anxieties and thoughts that I have in my mid-twenties, in order to draw the true understanding of today’s 20 generation.
 The poster reveals my portrait without any addition or distortion, and contrasts with the 'self-novel'. In a book containing details, body parts such as eyes, ears, hands, and heart become storytellers. It starts with a bitter story about the difficulty of each body part, and includes thoughts about the independent life and why I should love myself.
 
-<!--영문-->
+
 
 </div>
 
+<br>
 
 <div class="noto">
-<!--국문-->
 
-<br>
 10대부터 20대까지, 정해진 틀 안에서 미래의 인재상이 되기 위하여 끊임없이 노력해온 우리. 지금, 우리의 거울 속에서는 무슨 일이 일어나고 있는가? 각기 다른 두 개의 자기소개서를 통해 거울 속을 탐구해본다.
 <br>
 첫 번째 자기소개서: 신체 자소설
@@ -51,7 +50,6 @@ The poster reveals my portrait without any addition or distortion, and contrasts
 <거울소개서>는 화려한 수식어를 떼어내고, 있는 그대로의 나를 들여다보는 자기고백적 자기소개서다. 20대 중반인 내가 가지고 있는 진실된 고민과 생각들을 담아, 관람자들의 공감과 자기성찰을 이끌어내고자 하였다.
 <거울소개서>의 포스터는 어떠한 첨가나 왜곡도 없는 나의 초상을 그대로 드러내며 <신체 자소설>과 대조를 이룬다. 자세한 내용이 담긴 책에서는 눈, 귀, 손, 심장 등 신체부위들이 이야기꾼이 되는데, 각 신체부위의 고충을 담은 씁쓸한 이야기부터 시작하여, 주체적인 삶에 대한 고민과 나를 사랑해야 하는 이유에 대한 생각 등을 담고 있다.
 
-<!--국문-->
 
 </div>
 

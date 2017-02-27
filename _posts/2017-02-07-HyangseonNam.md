@@ -21,21 +21,19 @@ email: nanxiangshan713@gmail.com
 
 <div class="det lato">
 
-<!--영문-->
+
 A door is a gateway to the vast world and a channel into ones heartily path.
 
-<!--영문-->
+
 
 </div>
 
+<br>
 
 <div class="noto">
-<!--국문-->
 
-<br>
 문은 통로다.한국과 중국두나라의 문을 사진으로 기록했다.
 
-<!--국문-->
 
 </div>
 

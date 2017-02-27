@@ -21,20 +21,19 @@ email: han33507@gmail.com
 
 <div class="det lato">
 
-<!--영문-->
+
 
 Volcano is special little fire mountain. Please enjoy your day with volcano candle!
-<!--영문-->
+
 
 </div>
 
+<br>
 
 <div class="noto">
-<!--국문-->
 
 볼케이노는 특별한 작은 화산입니다. 소중한 일상을 볼케이노 캔들고 함께하세요!
 
-<!--국문-->
 
 </div>
 

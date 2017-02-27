@@ -21,7 +21,7 @@ email: sedomiii@gmail.com
 
 <div class="det lato">
 
-<!--영문-->
+
 “Do you have any plan after graduation?
 You need to do something as fast as you can.
 Why don’t get ready for the next step?”
@@ -33,15 +33,14 @@ not a burden for future.
 So I decided to get back our stolen congratulation,
 for every graduate students.
 
-<!--영문-->
+
 
 </div>
 
+<br>
 
 <div class="noto">
-<!--국문-->
 
-<br>
 "졸업하고 뭐 할거니?
 누구누구는 뭐 한다는데,
 너는 대기업 준비 안 하니?
@@ -59,7 +58,6 @@ for every graduate students.
 걱정을 짊어진 다른이들의 몫까지 더 많이.
 자축하기로 했다.
 
-<!--국문-->
 
 </div>
 

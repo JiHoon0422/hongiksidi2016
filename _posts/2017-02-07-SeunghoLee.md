@@ -21,23 +21,21 @@ email: freewill90@naver.com
 
 <div class="det lato">
 
-<!--영문-->
+
 
 First, remove properties or uses of a stuff, think of it as a pure form, cut it into several pieces and rearrange them like 'Tangram' puzzle. The rearranged image is a great artwork in itself.
 
-<!--영문-->
+
 
 </div>
 
+<br>
 
 <div class="noto">
-<!--국문-->
 
-<br>
 사물의 속성을 배제하여 형상을 오로지 순수한 조형요소로 인식하고, 그것을 퍼즐처럼 조각내어 재배열한 이미지는 그 자체로 또다른 조형물이다.
 
 
-<!--국문-->
 
 </div>
 

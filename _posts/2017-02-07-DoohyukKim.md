@@ -21,21 +21,20 @@ email: kdh8570@naver.com
 
 <div class="det lato">
 
-<!--영문-->
+
 
 Is it possible to catch the illusion?
 
-<!--영문-->
+
 
 </div>
 
+<br>
 
 <div class="noto">
-<!--국문-->
 
 소년은 아름다운 무지개를 보았습니다. 모두가 허상이라 말하고 어머니마저 말리지만 소년은 길을 떠납니다. 허상을 손에 넣는게 가능할까요? 무지개를 잡으러 가는 소년의 이야기이다.
 
-<!--국문-->
 
 </div>
 

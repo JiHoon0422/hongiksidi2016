@@ -21,7 +21,7 @@ email: dkhn.hwang@gmail.com
 
 <div class="det lato">
 
-<!--영문-->
+
 
 Between the lyrics,
 about the invisible things.
@@ -33,13 +33,13 @@ Between the lyrics, there are the thoughts of people who made the song and the i
 <br>
 This book is about the thoughts and imaginations between the lyrics that I have been consoled.
 
-<!--영문-->
+
 
 </div>
 
+<br>
 
 <div class="noto">
-<!--국문-->
 
 가사와 가사 사이,
 보이지 않는 것에 대해서.
@@ -52,7 +52,6 @@ This book is about the thoughts and imaginations between the lyrics that I have 
 <br>
 이 책은 내가 위로를 받은 가사와 가사 사이에 있는 생각과 상상에 대한 것이다.
 
-<!--국문-->
 
 </div>
 

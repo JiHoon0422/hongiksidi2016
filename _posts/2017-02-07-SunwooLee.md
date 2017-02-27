@@ -21,21 +21,20 @@ email: kindb0529@naver.com
 
 <div class="det lato">
 
-<!--영문-->
+
 
 This story is fiction, but based on fact. It's my story after the graduation. It's all about passion, anxiety, and reality
 
-<!--영문-->
+
 
 </div>
 
+<br>
 
 <div class="noto">
-<!--국문-->
 
 졸업 후 맞이할 미래에 대한 기대와 열정, 막연한 불안감과 좌절, 그리고 현실적인 이야기들을 담았다.
 
-<!--국문-->
 
 </div>
 

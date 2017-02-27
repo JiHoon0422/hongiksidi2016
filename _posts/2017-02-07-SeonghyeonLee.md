@@ -21,21 +21,20 @@ email: illi__illi@naver.com
 
 <div class="det lato">
 
-<!--영문-->
+
 
 INTERFACE CITY experiments through the everyday life in the city to see how the interface affects the interpretation of image-text and how it functions as a formative sign.
 
-<!--영문-->
+
 
 </div>
 
+<br>
 
 <div class="noto">
-<!--국문-->
 
 INTERFACE CITY는 인터페이스가 이미지-텍스트의 해석에 어떠한 영향을 끼치는지, 나아가 조형적 기호로서 어떻게 기능하는지 도시의 일상을 통해 실험하는 일러스트레이션이다. 
 
-<!--국문-->
 
 </div>
 

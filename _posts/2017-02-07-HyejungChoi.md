@@ -21,7 +21,7 @@ email: workingheyjung@gmail.com
 
 <div class="det lato">
 
-<!--영문-->
+
 
 "PLANTAID is a plant first aid brand that pursues a healthy life with healthy plants. In these days, plants are friends who comforts and heals people. I wanted to work on packaging of supplement for plants from the thought that I would like to help when such a thankful friend is sick. 
 <br>
@@ -29,13 +29,13 @@ Brand naming,PLANTAID is a compound word of plant and first aid. PLANTAID has tw
 <br>
 Growth supplements, main products, have flower, foliage plants, succulent product line. Each package is designed with botanical arts of the product plant and sub colors, which makes easy to understand the product. Also, PLANTAID has pill type plant food, bark, gravel soil and everything needed for a healthy life with healthy plants." 
 
-<!--영문-->
+
 
 </div>
 
+<br>
 
 <div class="noto">
-<!--국문-->
 
 "PLANTAID는 건강한 식물과의 건강한 삶을 추구하는 식물 응급키트 브랜드다.
 반려식물은 현대인들의 마음을 위로해주고 치유해주는 든든한 친구다. 이런 고마운 친구가 아플 때 도움을 주고 싶다는 생각에서 식물영양제 패키지를 작업하고 싶었다. 
@@ -44,7 +44,6 @@ PLANTAID는 식물의 PLANT와 응급치료의 FIRST AID를 합성한 네이밍�
 <br>
 메인제품인 성장영양제는 식물의 종류에 따라 초화용, 관엽식물용, 다육식물용의 베리에이션으로 구성되어있다. 각 제품에 맞는 보테니컬아트와 컬러를 활용하여 쉽게 이해할 수 있도록 제작했다. 그리고 알비료를 비롯하여 화분마감재인 바크, 마사토 등 반려식물과 더욱 건강하게 살 수 있는 다양한 물품들을 취급하고 있다. "
 
-<!--국문-->
 
 </div>
 

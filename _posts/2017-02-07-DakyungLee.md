@@ -21,23 +21,21 @@ email: dakyungleee@gmail.com
 
 <div class="det lato">
 
-<!--영문-->
+
 
 Your social-media collect shop, Sollection. Manage your social-meda records [like,share,save] in Sollection application. Edit your own social-media collect shop which will express yourself more effectively. Furthermore, communication with other users who have common taste of yours, or have fabulous Sollections(Social media collection).
 
-<!--영문-->
+
 
 </div>
 
+<br>
 
 <div class="noto">
-<!--국문-->
 
-<br>
 소셜 미디어들로 가꾸는 나만의 편집샵, 
 Sollection. 내가 [좋아요,공유,저장] 했던 기록들을 sollection 어플리케이션에서 관리하고, 나의 취향을 반영한 [좋아요, 공유, 저장] 데이터들을 편집해 나만의 소셜 미디어 편집샵을 만든다. 나아가 팔로우,좋아요 등 소통 기능을 통해 나와 취향이 비슷한, 혹은 더욱 멋진 Sollection(Social media collection)들을 보유한 다른 유저들과 소통한다.
 
-<!--국문-->
 
 </div>
 

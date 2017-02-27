@@ -21,7 +21,7 @@ email: 331rifmr@gmail.com
 
 <div class="det lato">
 
-<!--영문-->
+
 
 If you know each other, you can see our chemistry.
 Alchemy is a compound word of ‘Alda(Understand)’ and 'Chemistry'.
@@ -33,15 +33,14 @@ It is very important to know myself and understand others. True communication an
 Most of the stress we receive comes from relationships, not from work. Especially when you are close to each other, If you objectively check how you are, you can maximise your synergy by improving your strengths and weaknesses.
 Alchemy graphics are seven graphics based on four shapes - circles, triangles, squares, and S. Users can combine their favourite graphics after the test. You can create new effects by adding my choices and your choices. I expect Alchemy to be used as a positive mediator in relationships.
 
-<!--영문-->
+
 
 </div>
 
+<br>
 
 <div class="noto">
-<!--국문-->
 
-<br>
 나를 알면, 우리의 케미가 보인다.
 알케미는 ‘알다’ 와 ‘Chemistry’ 의 합성어이다. 각각 풀어서 설명해보면 다음과 같다.
 알다: 간단한 칼라도형 심리테스트를 통해 서로의 성향을 파악할 수 있다.
@@ -50,7 +49,6 @@ Alchemy graphics are seven graphics based on four shapes - circles, triangles, s
 세상을 살아가면서 나 자신을 알고 타인을 이해하는 것은 매우 중요하다. 서로의 기질과 강점을 이해할 때 사람 사이에 진정한 소통과 공감이 일어날 수 있다. 우리가 받는 스트레스는 대부분 일에 관해서가 아닌 사람관계에서 생기는 것들이 많다. 특히 가까운 사이일수록 서로와 함께 있을 때 자신의 모습이 어떤지 객관적으로 점검해보고 성장할 수 있을 때 비로소 시너지를 최대화 할 수 있을 것이다.
 다음으로 알케미 그래픽은 4가지 도형 - 동그라미, 세모, 네모, 에스(S)를 기반으로 만들어진 7가지 그래픽이다. 사용자는 테스트 후 나온 그래픽 중, 각자 마음에 드는 모양을 선택해 합성할 수 있다. 나의 선택과 너의 선택을 더해 새로운 효과를 창출한다는 점에서 관계의 긍정적 매개체로 사용될 것으로 기대한다.
 
-<!--국문-->
 
 </div>
 

@@ -21,23 +21,22 @@ email: nhahaha91@gmail.com
 
 <div class="det lato">
 
-<!--영문-->
+
 
 Under the spire of the capital city.
 All my research started here. Everything I have studied since I saw it in my childhood is contained in this study. This data will not only penetrate the past and present of the country, but will be the only key and the only way to find what is hidden behind it
 
-<!--영문-->
+
 
 </div>
 
+<br>
 
 <div class="noto">
-<!--국문-->
 
 A나라 수도의 첨탑 밑에는 [                 ] 
 나의 연구는 모두 이곳에서 시작되었다. 어린시절 그것을 목격한 이후 연구해온 모든 것이 이 연구서에 들어있다. 이 자료는 단순히 이 나라의 과거와 현재를 관통하는 것이 아닌, 그 이면에 숨겨진 것을 찾을 수 있는 유일한 열쇠이자 길이 될 것이다. 
 
-<!--국문-->
 
 </div>
 

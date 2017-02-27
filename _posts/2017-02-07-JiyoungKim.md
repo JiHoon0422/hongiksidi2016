@@ -21,7 +21,7 @@ email: yomi1122@gmail.com
 
 <div class="det lato">
 
-<!--영문-->
+
 
 How disgusting and horrible can ice cream be?
 ICECREAM I SCREAM started from this question.
@@ -33,13 +33,13 @@ Each flavor of the ice cream has a mysterious story.
 Those creepy stories will make you drop the ice cream.
 I hope you enjoy a strange experience with ICECREAM I SCREAM.
 
-<!--영문-->
+
 
 </div>
 
+<br>
 
 <div class="noto">
-<!--국문-->
 
 부드럽고 달콤한 아이스크림이 얼마나 역겹고 공포스러워질 수 있을까?
 '아이스크림 아이스크림'은 이런 질문에서 시작된 기괴한 아이스크림 브랜드이다.
@@ -52,7 +52,6 @@ I hope you enjoy a strange experience with ICECREAM I SCREAM.
 달콤한 아이스크림을 내려놓고 싶어지는 찝찝하고 기괴한 이야기들.
 '아이스크림 아이스크림'을 통해 색다른 경험을 즐기기를 바란다.
 
-<!--국문-->
 
 </div>
 

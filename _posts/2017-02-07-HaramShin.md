@@ -21,22 +21,21 @@ email: eastseaweed@gmail.com
 
 <div class="det lato">
 
-<!--영문-->
+
 
 We did not want to work on weekdays or weekends, when weather is good, when it is bad, when it is hungry, when it is distributed. A record of four years of H that can now be revealed.
 
-<!--영문-->
+
 
 </div>
 
+<br>
 
 <div class="noto">
-<!--국문-->
 
 우리는 날씨가 좋으면 좋아서 날씨가 나쁘면 나빠서, 배고프면 배고픈대로 배부르면 배부른대로, 평일, 주말을 가리지 않고 과제가 하기 싫었다. 이제는 밝힐 수 있는 H,
 4년간의 기록.
 
-<!--국문-->
 
 </div>
 

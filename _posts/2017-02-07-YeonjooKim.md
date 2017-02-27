@@ -21,7 +21,7 @@ email: kiimmm37@gmail.com
 
 <div class="det lato">
 
-<!--영문-->
+
 
 Can we convert what we saw to what we heard?
 What if the voice can be seen?
@@ -34,15 +34,14 @@ The order of the project is as follows.
 2. An unknown space consisted of three elements unfolds in front of you.
 3. The project ends with a simple record printed before the unknown space disappears.
 
-<!--영문-->
+
 
 </div>
 
+<br>
 
 <div class="noto">
-<!--국문-->
 
-<br>
 들리는 것을 보이는 것으로 전환할 수 있을까?
 사람의 목소리가 보일 수 있다면?
 사람의 목소리를 들었을 때 나는 무엇을 떠올리는가?
@@ -54,7 +53,6 @@ The order of the project is as follows.
 2. 세 가지 요소가 조합된 미지의 공간이 눈 앞에 펼쳐진다.
 3. 순간적으로 우연히 만들어진 공간이 사라지기 전에 간단한 기록물이 출력되어 나오면서 프로젝트는 마무리된다.
 
-<!--국문-->
 
 </div>
 
