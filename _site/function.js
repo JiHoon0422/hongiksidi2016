@@ -5,7 +5,7 @@ function filter(){
         var category = $(this).val();
         var random = '#'+Math.floor(Math.random()*16777215).toString(16);
         category_list.push(category);
-        $('.bottomBar').text(category_list.toString());
+        $('.bottomBar').text(category_list);
         $('.bottomBar').css("background-color", random);
         // $('.bottomBar').css("border-width", "0px");
         console.log(random);
