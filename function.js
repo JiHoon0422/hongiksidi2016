@@ -1,4 +1,4 @@
-$(document).ready(function(){
+function Filter(){
     $('.category').on('change', function(){
       var category_list = [];
       $('#filters :input:checked').each(function(){
@@ -19,19 +19,25 @@ $(document).ready(function(){
       }   
     });
     console.log("DefaultFilter")
-  }); 
+  }; 
 
-$(document).ready(function(){
 
+
+function scrollUp(){
   $('#top').click(function(){
 
   $('html, body').animate({ scrollTop: 0 }, 'slow');
     
-
   })
+};
 
-});
 
-// function getTitle(){
-//   console.log($('#id').length)
-//   }
+
+function Magnify(){
+$('.col-xs-3').click(function(){
+ var opacity = 0.4;
+  $(this).find("img").before("<div style='z-index:10; font-weight:500; font-size:10px; background-color:black; color:white;'> &nbsp already </div>");
+  $(this).find("img").css("opacity", opacity);
+  $(this).find(".des1").css("opacity", opacity);
+  
+})};

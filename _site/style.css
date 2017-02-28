@@ -92,5 +92,9 @@ body .toTop {
   body .toTop:hover {
     background-color: pink;
     cursor: pointer; }
+body .overlay {
+  width: 150px;
+  z-index: 10;
+  position: absolute; }
 
 /*# sourceMappingURL=style.css.map */
