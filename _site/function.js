@@ -3,16 +3,25 @@ function filter(){
       var category_list = [];
       $('#filters :input:checked').each(function(){
         var category = $(this).val();
+        var random = '#'+Math.floor(Math.random()*16777215).toString(16);
         category_list.push(category);
+        $('.bottomBar').text(category_list.toString());
+        $('.bottomBar').css("background-color", random);
+        // $('.bottomBar').css("border-width", "0px");
+        console.log(random);
+        
       });
 
-      if(category_list.length == 0)
+      if(category_list.length == 0){
         $('.resultblock').fadeIn();
+        $('.bottomBar').text('No Filtered');
+      }
       else {
         $('.resultblock').each(function(){
           var item = $(this).attr('data-tag');
-          if(jQuery.inArray(item,category_list) > -1)
+          if(jQuery.inArray(item,category_list) > -1){
             $(this).fadeIn('slow');
+          }
           else
             $ (this).hide();
         });
@@ -25,9 +34,7 @@ function filter(){
 
 function scrollUp(){
   $('#top').click(function(){
-
   $('html, body').animate({ scrollTop: 0 }, 'slow');
-    
   })
 };
 
@@ -43,14 +50,12 @@ $('.col-xs-3').click(function(){
 })};
 
 
-//클릭 인터랙션 
+// function filterText(){
+//     $('.category').on('change', function(){ 
+//       $('#filters :input:checked').each(function(){
+//         var value = $(this).val;
+//         $('.bottomBar').text(value);  
+//         });
+//       };   
+//       )};
 
-function filterIntercation(){
-
-// var $clickclass = $("<div class="clickpopup"></div>");
-
-$('.filterblock input').click(function(){
-var value = '<div class="clickpopup">'+$(this).val()+'</div>';
-console.log(value);
-});
-};
