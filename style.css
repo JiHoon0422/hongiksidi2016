@@ -93,8 +93,17 @@ body .toTop {
     background-color: pink;
     cursor: pointer; }
 body .overlay {
-  width: 150px;
+  width: 100%;
   z-index: 10;
   position: absolute; }
+body .clickpopup {
+  background: black;
+  z-index: 100;
+  position: absolute;
+  font-size: 50px;
+  color: white;
+  top: 10%;
+  left: 10%;
+  display: inline-block; }
 
 /*# sourceMappingURL=style.css.map */

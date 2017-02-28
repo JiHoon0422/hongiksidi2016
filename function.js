@@ -1,4 +1,4 @@
-function Filter(){
+function filter(){
     $('.category').on('change', function(){
       var category_list = [];
       $('#filters :input:checked').each(function(){
@@ -18,7 +18,7 @@ function Filter(){
         });
       }   
     });
-    console.log("DefaultFilter")
+    console.log("DefaultFilter");
   }; 
 
 
@@ -33,7 +33,7 @@ function scrollUp(){
 
 
 
-function Magnify(){
+function magnify(){
 $('.col-xs-3').click(function(){
  var opacity = 0.4;
   $(this).find("img").before("<div style='z-index:10; font-weight:500; font-size:10px; background-color:black; color:white;'> &nbsp already </div>");
@@ -41,3 +41,16 @@ $('.col-xs-3').click(function(){
   $(this).find(".des1").css("opacity", opacity);
   
 })};
+
+
+//클릭 인터랙션 
+
+function filterIntercation(){
+
+// var $clickclass = $("<div class="clickpopup"></div>");
+
+$('.filterblock input').click(function(){
+var value = '<div class="clickpopup">'+$(this).val()+'</div>';
+console.log(value);
+});
+};
