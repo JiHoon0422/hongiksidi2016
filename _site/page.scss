@@ -3,11 +3,9 @@
 
 body
 {
-
-.container{
-	width:1000px;
-	margin:25px 60px 20px 60px;
-}
+	
+	// max-width:500px;
+	// margin:25px 60px 20px 60px;
 
 
 .noto
@@ -18,11 +16,13 @@ body
 		line-height:160%;
 		text-align: left;
 		font-size:13px;
+		width:500px;
 }
 
 .lato
 {
 	font-family: 'Lato', sans-serif;
+	width:500px;
 }
 
 .deDep
@@ -32,6 +32,7 @@ body
 		line-height:150%;
 		text-align: left;
 		font-size:40px;
+		width:500px;
 }
 
 
@@ -48,7 +49,7 @@ letter-spacing:-0.25px;
 {
 
 margin:30px 0px 0px 0px;
- width:80%;
+width:100%;
 
 }
 

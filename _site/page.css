@@ -1,27 +1,27 @@
 @import url("https://fonts.googleapis.com/css?family=Lato");
 @import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
-body .container {
-  width: 1000px;
-  margin: 25px 60px 20px 60px; }
 body .noto {
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: 400;
   line-height: 160%;
   text-align: left;
-  font-size: 13px; }
+  font-size: 13px;
+  width: 500px; }
 body .lato {
-  font-family: 'Lato', sans-serif; }
+  font-family: 'Lato', sans-serif;
+  width: 500px; }
 body .deDep {
   font-weight: 300;
   line-height: 150%;
   text-align: left;
-  font-size: 40px; }
+  font-size: 40px;
+  width: 500px; }
 body .det {
   line-height: 150%;
   letter-spacing: -0.25px; }
 body .deImg {
   margin: 30px 0px 0px 0px;
-  width: 80%; }
+  width: 100%; }
 body hr {
   -webkit-margin-before: 0;
   -webkit-margin-after: 0;

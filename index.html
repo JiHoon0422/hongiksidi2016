@@ -4,18 +4,42 @@ layout: default
 
 {% for post in site.posts %}
 
-<a href="{{site.baseurl}}{{post.url}}" target="_blank">
 <div class="col-xs-3 resultblock" data-tag="{{post.tag}}">
 	<div class="abImg">
 	<img src="{{site.baseurl}}/{{post.link}}.jpg" style="width:10%; height:auto; min-width:100%; min-height: 100%; margin:-50px;">
+		<!-- <img src="{{site.baseurl}}/{{post.link}}1.jpg" style="width:10%; height:auto; min-width:100%; min-height: 100%; margin:-50px;"> -->
 	</div>
+	<div class="deswrapper">
 	<div class="des1">
 		<div style="font-size:12px; width:150px; overflow:hidden; font-weight:500; color:grey; white-space: nowrap; display:inline-block; text-overflow:ellipsis; ">{{post.title}}.{{post.titleK}}<br></div> 
-		<em>{{post.author}}</em><br>
+		<div style="margin-bottom:4px;"><em>{{post.author}}</em><br></div>
+		<div style="font-size:9px;">{{post.tag}}</div>
+		<a href="{{site.baseurl}}{{post.url}}" 	target="_blank"><button style="font-size:8px; font-weight:300; display:inline-block; padding:3px; margin:3px 0px 0px 0px;" class= "btn btn-default">detail</button></a>
 		</div>
+<!-- 		<button cltype="button" class="btn btn-primary"></button>
+ -->		</div>
 </div>
-</a>
 
+
+<script>
+
+var Author = [];
+
+Author.push(new GetAuthorObject('{{post.author}}','{{post.title}}','{{post.link}}','{{post.tag}}'));
+
+</script>
+
+<script>
+	$(document).ready(function(){
+
+	$('.abImg').click(function(){
+
+    $('.contents').load('{{post.author}}'+'.html');
+
+  });
+
+	});
+</script>
 
  {% endfor %}
 

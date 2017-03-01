@@ -1,3 +1,6 @@
+var random = '#'+Math.floor(Math.random()*16777215).toString(16);
+
+
 function filter(){
     $('.category').on('change', function(){
       var category_list = [];
@@ -35,27 +38,31 @@ function filter(){
 function scrollUp(){
   $('#top').click(function(){
   $('html, body').animate({ scrollTop: 0 }, 'slow');
-  })
+  });
 };
 
 
 
 function magnify(){
-$('.col-xs-3').click(function(){
+$('.col-xs-3').children('.abImg').one("click",function(){
  var opacity = 0.4;
-  $(this).find("img").before("<div style='z-index:10; font-weight:500; font-size:10px; background-color:black; color:white;'> &nbsp already </div>");
+  $(this).find("img").before("<div style='z-index:10; font-weight:500; font-size:10px; background-color:black; color:white;'> &nbsp Viewed</div>");
   $(this).find("img").css("opacity", opacity);
   $(this).find(".des1").css("opacity", opacity);
   
 })};
 
 
-// function filterText(){
-//     $('.category').on('change', function(){ 
-//       $('#filters :input:checked').each(function(){
-//         var value = $(this).val;
-//         $('.bottomBar').text(value);  
-//         });
-//       };   
-//       )};
+function GetAuthorObject(authour,title,link,tag){
+
+  this.authour = authour;
+  this.title = title;
+  this.link = link; 
+  this.tag = tag;
+  console.log('author: '+authour+'\n',
+    'title: '+title+'\n','link:'+link+'\n','tag :'+tag);
+
+}
+
+
 
