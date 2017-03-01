@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Lato");
 body .fullcontainer {
-  margin: 0px auto; }
+  margin: 0px auto;
+  width: 1300px; }
 body .containerRight {
   width: 600px;
   height: 100%;
