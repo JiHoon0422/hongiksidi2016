@@ -42,7 +42,7 @@ This exhibition is the space where I can confess now that I am a Christian and t
 
 </div>
 
-<div class="row noto">
+<div class="row" class="imgcolor">
 	
 	<div class="col-xs-4">
 	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>

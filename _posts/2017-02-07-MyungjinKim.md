@@ -53,7 +53,7 @@ The poster reveals my portrait without any addition or distortion, and contrasts
 
 </div>
 
-<div class="row noto">
+<div class="row" class="imgcolor">
 	
 	<div class="col-xs-4">
 	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>

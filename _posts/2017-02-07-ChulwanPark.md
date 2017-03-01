@@ -43,7 +43,7 @@ Florence focuses on the nurse service in the general ward. Nurses understand inf
 
 </div>
 
-<div class="row noto">
+<div class="row" class="imgcolor">
 	
 	<div class="col-xs-4">
 	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>

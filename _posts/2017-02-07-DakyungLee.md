@@ -39,7 +39,7 @@ Sollection. 내가 [좋아요,공유,저장] 했던 기록들을 sollection 어�
 
 </div>
 
-<div class="row noto">
+<div class="row" class="imgcolor">
 	
 	<div class="col-xs-4">
 	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>

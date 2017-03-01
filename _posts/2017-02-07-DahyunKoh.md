@@ -41,7 +41,7 @@ I have listened to Enka quite a long time. People around me used to say I'm pecu
 
 </div>
 
-<div class="row noto">
+<div class="row" class="imgcolor">
 	
 	<div class="col-xs-4">
 	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>

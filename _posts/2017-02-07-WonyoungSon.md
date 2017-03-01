@@ -39,7 +39,7 @@ mathflat is tablet PC centered software service used in math-class. Based on 250
 
 </div>
 
-<div class="row noto">
+<div class="row" class="imgcolor">
 	
 	<div class="col-xs-4">
 	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>

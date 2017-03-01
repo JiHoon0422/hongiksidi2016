@@ -43,7 +43,7 @@ History repeats itself, first as tragedy, second as farce.' 마르크스가 프�
 
 </div>
 
-<div class="row noto">
+<div class="row" class="imgcolor">
 	
 	<div class="col-xs-4">
 	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>

@@ -47,7 +47,7 @@ I bound 8 pieces reinterpreted from the standpoint of female characters as a pic
 
 </div>
 
-<div class="row noto">
+<div class="row" class="imgcolor">
 	
 	<div class="col-xs-4">
 	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>

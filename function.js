@@ -44,7 +44,7 @@ function scrollUp(){
 
 
 function magnify(){
-$('.col-xs-3').children('.abImg').one("click",function(){
+$('.col-xs-3').find('.abImg').one("click",function(){
  var opacity = 0.4;
   $(this).find("img").before("<div style='z-index:10; font-weight:500; font-size:10px; background-color:black; color:white;'> &nbsp Viewed</div>");
   $(this).find("img").css("opacity", opacity);

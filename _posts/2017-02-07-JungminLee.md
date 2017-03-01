@@ -38,7 +38,7 @@ il-ga-gyeon' is a brand specialized in home-cooked food for pet dog. 'il-ga-gyeo
 
 </div>
 
-<div class="row noto">
+<div class="row" class="imgcolor">
 	
 	<div class="col-xs-4">
 	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>

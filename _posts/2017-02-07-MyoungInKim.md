@@ -57,7 +57,7 @@ Progressing through the three steps of defrosting with the 1℃ diary, we will f
 
 </div>
 
-<div class="row noto">
+<div class="row" class="imgcolor">
 	
 	<div class="col-xs-4">
 	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>

@@ -55,7 +55,7 @@ I hope you enjoy a strange experience with ICECREAM I SCREAM.
 
 </div>
 
-<div class="row noto">
+<div class="row" class="imgcolor">
 	
 	<div class="col-xs-4">
 	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>

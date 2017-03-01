@@ -42,7 +42,7 @@ Based on this fact, I imagined something such as, ""What would happen if a polar
 
 </div>
 
-<div class="row noto">
+<div class="row" class="imgcolor">
 	
 	<div class="col-xs-4">
 	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>

@@ -45,7 +45,7 @@ In the contradictory area, also, there are 5 themes of archiving report classifi
 
 </div>
 
-<div class="row noto">
+<div class="row" class="imgcolor">
 	
 	<div class="col-xs-4">
 	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>

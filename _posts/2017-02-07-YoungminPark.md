@@ -42,7 +42,7 @@ MEOW는 세상 모든 반려묘와의 행복한 동거를 꿈꾼다.
 
 </div>
 
-<div class="row noto">
+<div class="row" class="imgcolor">
 	
 	<div class="col-xs-4">
 	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>

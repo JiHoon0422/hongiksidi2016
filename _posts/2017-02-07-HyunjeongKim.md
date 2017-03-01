@@ -45,7 +45,7 @@ JellyLab은 지금까지 다섯명의 친구들의 고민을 담아 젤리를 �
 
 </div>
 
-<div class="row noto">
+<div class="row" class="imgcolor">
 	
 	<div class="col-xs-4">
 	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>

@@ -45,7 +45,7 @@ Round&Round 초콜릿 패키지를 두르고있는 라벨에는 해당 초콜릿
 
 </div>
 
-<div class="row noto">
+<div class="row" class="imgcolor">
 	
 	<div class="col-xs-4">
 	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>

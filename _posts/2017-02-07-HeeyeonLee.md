@@ -37,7 +37,7 @@ Swayin' Sound Studio is an imaginary place branding project, where people can li
 
 </div>
 
-<div class="row noto">
+<div class="row" class="imgcolor">
 	
 	<div class="col-xs-4">
 	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>

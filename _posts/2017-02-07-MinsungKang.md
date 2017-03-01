@@ -41,7 +41,7 @@ Since there are not enough books and data focused on shrimp as a pet in Korea, I
 
 </div>
 
-<div class="row noto">
+<div class="row" class="imgcolor">
 	
 	<div class="col-xs-4">
 	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>
