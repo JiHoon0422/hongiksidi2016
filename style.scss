@@ -11,6 +11,7 @@ body{
 	.fullcontainer{
 		margin: 0px auto;
 		width:1300px;
+		
 	}
 	
 	.containerRight
@@ -184,11 +185,20 @@ body{
 
 	}
 
+
+
+	img{
+
+		transition: opacity 1s ease-in-out;
+	}
+
+
 	.abImg
 	{
 		width:250px;
 		height:100px; 
 		overflow:hidden;
+		
 		// min-width: 200px;
 	 	// min-height: 150px;
 

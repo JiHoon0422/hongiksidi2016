@@ -70,6 +70,8 @@ body .des1 {
   line-height: 140%;
   margin: 15px 0px 35px 0px;
   font-size: 12px; }
+body img {
+  transition: opacity 1s ease-in-out; }
 body .abImg {
   width: 250px;
   height: 100px;
