@@ -9,6 +9,14 @@
 	<script src="bootstrap/jquery.js"></script>
 	<script src="bootstrap/bootstrap.min.js"></script>
 	<script src="function.js"></script>
+	<script> //Go to Mobile Page
+    // Mobile여부를 구분하기 위함
+    var uAgent = navigator.userAgent.toLowerCase();  
+    var mobilePhones = new Array('iphone', 'ipod', 'ipad', 'android', 'blackberry', 'windows ce','nokia', 'webos', 'opera mini', 'sonyericsson', 'opera mobi', 'iemobile');
+    for (var i = 0; i < mobilePhones.length; i++)
+        if (uAgent.indexOf(mobilePhones[i]) != -1)
+           document.location = "http://www.hongik.ac.kr";
+</script>
 	
 </head>
 <body>
