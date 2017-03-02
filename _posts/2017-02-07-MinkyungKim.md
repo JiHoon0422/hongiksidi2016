@@ -17,6 +17,13 @@ email: miz977@naver.com
 <p style="font-size:15px; margin:0px; padding:0px 0px 0px 8px;">- {{page.email}}</p>
 </div>
 
+
+<div class="row" class="imgcolor">
+	
+	<div class="col-xs-4">
+	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>
+	
+</div>
 <br>
 
 <div class="det lato">
@@ -52,12 +59,6 @@ Run to playground, the game is on!
 
 </div>
 
-<div class="row" class="imgcolor">
-	
-	<div class="col-xs-4">
-	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>
-	
-</div>
 
 	
 

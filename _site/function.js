@@ -46,11 +46,13 @@ function scrollUp(){
 function magnify(){
 $('.col-xs-3').find('.abImg').one("click",function(){
  var opacity = 0.4;
-  $(this).find("img").before("<div style='z-index:10; font-weight:500; font-size:10px; background-color:black; color:white;'> &nbsp Viewed</div>");
+  $(this).find("img").before("<div style='z-index:10; font-weight:500; font-size:10px; background-color:#bebebe; color:white;'> &nbsp Viewed</div>");
   $(this).find("img").css("opacity", opacity);
   $(this).find(".des1").css("opacity", opacity);
   
 })};
+
+
 
 
 function GetAuthorObject(authour,title,link,tag){
@@ -62,7 +64,26 @@ function GetAuthorObject(authour,title,link,tag){
   console.log('author: '+authour+'\n',
     'title: '+title+'\n','link:'+link+'\n','tag :'+tag);
 
+};
+
+
+function mouseevent(){
+
+$('.abImg').click(function(){
+console.log($(this).offset().top);
+var offsetValue = $(this).parents().offset();
+offsetValue.top = offsetValue.top - 200;
+$('html,body').animate({scrollTop: offsetValue.top},3);
+});
+
 }
+
+function scrollToTarget(){
+
+var i = Math.floor(Math.random()*140);
+$('.col-xs-3:eq('+i+')').find('.abImg').click();
+
+};
 
 
 

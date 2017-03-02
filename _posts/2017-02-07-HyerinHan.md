@@ -17,6 +17,13 @@ email: han33507@gmail.com
 <p style="font-size:15px; margin:0px; padding:0px 0px 0px 8px;">- {{page.email}}</p>
 </div>
 
+
+<div class="row" class="imgcolor">
+	
+	<div class="col-xs-4">
+	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>
+	
+</div>
 <br>
 
 <div class="det lato">
@@ -37,12 +44,6 @@ Volcano is special little fire mountain. Please enjoy your day with volcano cand
 
 </div>
 
-<div class="row" class="imgcolor">
-	
-	<div class="col-xs-4">
-	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>
-	
-</div>
 
 	
 

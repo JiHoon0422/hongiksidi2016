@@ -17,6 +17,13 @@ email: suki042012@naver.com
 <p style="font-size:15px; margin:0px; padding:0px 0px 0px 8px;">- {{page.email}}</p>
 </div>
 
+
+<div class="row" class="imgcolor">
+	
+	<div class="col-xs-4">
+	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>
+	
+</div>
 <br>
 
 <div class="det lato">
@@ -51,12 +58,6 @@ world""란 주제로 사진 작업을 시작했다.
 
 </div>
 
-<div class="row" class="imgcolor">
-	
-	<div class="col-xs-4">
-	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>
-	
-</div>
 
 	
 

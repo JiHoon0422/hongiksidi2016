@@ -57,10 +57,17 @@ body .header {
   body .header input[type=checkbox] {
     cursor: pointer; }
 body a {
-  color: #333; }
+  color: #333;
+  text-decoration: none; }
   body a:hover {
     color: #333;
-    text-decoration: line-through; }
+    text-decoration: none; }
+  body a :after {
+    color: #333;
+    text-decoration: none; }
+  body a :before {
+    color: #333;
+    text-decoration: none; }
 body label {
   font-family: 'Lato', sans-serif;
   font-weight: 300;
@@ -129,5 +136,7 @@ body .bottomBar {
   opacity: 0.9;
   margin-bottom: 30px;
   margin-left: 6px; }
+body .randomView {
+  font-size: 10px; }
 
 /*# sourceMappingURL=style.css.map */

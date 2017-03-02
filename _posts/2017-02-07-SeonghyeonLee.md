@@ -17,6 +17,13 @@ email: illi__illi@naver.com
 <p style="font-size:15px; margin:0px; padding:0px 0px 0px 8px;">- {{page.email}}</p>
 </div>
 
+
+<div class="row" class="imgcolor">
+	
+	<div class="col-xs-4">
+	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>
+	
+</div>
 <br>
 
 <div class="det lato">
@@ -38,12 +45,6 @@ INTERFACE CITY는 인터페이스가 이미지-텍스트의 해석에 어떠한 
 
 </div>
 
-<div class="row" class="imgcolor">
-	
-	<div class="col-xs-4">
-	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>
-	
-</div>
 
 	
 

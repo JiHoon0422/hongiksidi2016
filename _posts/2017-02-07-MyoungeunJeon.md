@@ -17,6 +17,13 @@ email: mejeon1020@gmail.com
 <p style="font-size:15px; margin:0px; padding:0px 0px 0px 8px;">- {{page.email}}</p>
 </div>
 
+
+<div class="row" class="imgcolor">
+	
+	<div class="col-xs-4">
+	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>
+	
+</div>
 <br>
 
 <div class="det lato">
@@ -47,12 +54,6 @@ The title of my project, <1/1>, refers to both my daybook and the whole trip com
 
 </div>
 
-<div class="row" class="imgcolor">
-	
-	<div class="col-xs-4">
-	<img src="{{site.baseurl}}/{{page.link}}.jpg" class="deImg" alt=""></div>
-	
-</div>
 
 	
 

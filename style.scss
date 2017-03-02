@@ -149,12 +149,26 @@ body{
 	a
 	{
 		color:#333;
+		text-decoration: none;
 		
 		&:hover
 		
 		{
 			color:#333;
-			text-decoration: line-through;
+			text-decoration: none;
+		}
+
+		:after{
+			
+			color:#333;
+			text-decoration: none;
+
+		}
+
+		:before{
+
+			color:#333;
+			text-decoration: none;
 		}
 	}
 
@@ -293,7 +307,10 @@ body{
 
 		}
 
+		.randomView{
 
+			font-size:10px;
+		}
 		
 		
 		// .clickpopup{
